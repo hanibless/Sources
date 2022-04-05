@@ -1,0 +1,7 @@
+x = 3
+if x == 1:
+    print( "what a beatiful day  " )
+elif x == 2:
+    print( "it is cool  day " )
+else:
+    print( "its hot day  " )
